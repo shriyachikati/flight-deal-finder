@@ -1,0 +1,5 @@
+.env
+amadeus_new.txt
+flight_deals_amadeus.txt
+flight_deals_sheety.txt
+.DS_Store
